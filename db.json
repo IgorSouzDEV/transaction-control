@@ -1,0 +1,54 @@
+{
+  "transactions": [
+    {
+      "id": "ef2a",
+      "name": "Salário",
+      "amount": 3600
+    },
+    {
+      "id": "aba6",
+      "name": "Freelancer 1",
+      "amount": 900
+    },
+    {
+      "id": "04f8",
+      "name": "Aluguel",
+      "amount": -1600
+    },
+    {
+      "id": "1585",
+      "name": "Conta Água",
+      "amount": -370
+    },
+    {
+      "id": "0bbe",
+      "name": "Conta Luz",
+      "amount": -500
+    },
+    {
+      "id": "6242",
+      "name": "Compras",
+      "amount": -750
+    },
+    {
+      "id": "7e88",
+      "name": "Freelancer 2",
+      "amount": 1200
+    },
+    {
+      "name": "Lanche 1",
+      "amount": -76,
+      "id": "48f5"
+    },
+    {
+      "name": "Lanche 2",
+      "amount": -120,
+      "id": "9e9f"
+    },
+    {
+      "id": "dd16",
+      "name": "Freelancer 3",
+      "amount": 900
+    }
+  ]
+}
